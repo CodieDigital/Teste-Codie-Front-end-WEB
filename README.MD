@@ -54,6 +54,15 @@ Este site se trata de uma landing page que contém 3 seções, sendo elas um ban
 
 </details>
 
+<details>
+  <summary>
+    <strong>🛠 Desenvolvimento</strong>
+  </summary><br>
+  
+ - O Banner deve ser um carousel de imagens, elas devem mudar a cada 6 segundos.
+
+</details>
+
 # Requisitos
 
 ## `O que será avaliado`
