@@ -64,8 +64,10 @@ Este site se trata de uma landing page que contém 3 seções, sendo elas um ban
 - Deve conter um bom responsivo;
 - Deve conter boas práticas de componentização;
 - Deve ter um código limpo e legível;
-- As requisições a API devem ser feitas utilizando o SSR do NextJS
-- Tipagem bem organizadas
+- As requisições a API devem ser feitas utilizando o SSR do NextJS;
+- Tipagem bem organizadas;
+- Tratamento de erros no formulário;
+- Uma boa organização de pastas e arquivos, tendo foco no Clean Code;
 
 ---
 
