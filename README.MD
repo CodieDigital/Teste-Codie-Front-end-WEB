@@ -1,6 +1,6 @@
 # TESTE PRÁTICO - CODIE DIGITAL (FRONT-END)
 
-Para realizar o projeto, atente-se a cada passo descrito a seguir, e se tiver qualquer dúvida, nos envie pelo [LINKEDIN](_linkedin_) 🚀
+Para realizar o projeto, atente-se a cada passo descrito a seguir, e se tiver qualquer dúvida, nos envie pelo [LINKEDIN](https://www.linkedin.com/in/fernando-maziero/) 🚀
 
 ---
 
